@@ -62,7 +62,8 @@
               "buildTarget": "first_Angular:build:production"
             },
             "development": {
-              "buildTarget": "first_Angular:build:development"
+              "buildTarget": "first_Angular:build:development",
+              "port":4201
             }
           },
           "defaultConfiguration": "development"
